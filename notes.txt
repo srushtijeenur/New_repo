@@ -4,3 +4,4 @@ github is a platform where developers,
 can keep the code,files and manages them using git.
 Git is a version control system 
 it helps to stores and modifies the code
+so that everyone can access it 
