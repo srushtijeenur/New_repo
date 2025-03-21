@@ -1,0 +1,3 @@
+Initial feature implementation
+Added validation
+Fixed minor bug
